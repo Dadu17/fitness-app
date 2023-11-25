@@ -1,4 +1,4 @@
-# amazon_clone
+# fitness
 
 A new Flutter project.
 
